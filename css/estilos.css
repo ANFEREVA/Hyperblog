@@ -1,5 +1,22 @@
 body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    color: pink;
+    color: rgb(42, 41, 41);
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+
+}
+
+#container{
+    width: 70%;
+    padding: 1em;
+    margin: 0 auto;
+    text-align: left;
+    border: 1px solid rgb(27, 26, 26);
+
+}
+
+#container h1{
+    font-size: 20px;
 }
