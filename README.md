@@ -28,6 +28,8 @@ Este curso de [Platzi][4] es recomendado para aquellos developers que desen ser 
 
 ###### Te ayudara a progresar en el mundo del desarrollo
 
+*Creado por el increible Platzi Team
+
 
 ### <center>💻Curso de Git y Github aqui 👇</center>
 <center > [![Curso Git](https://i.postimg.cc/t4tbGzYZ/Privacidad.png "Curso Git")](https://platzi.com/cursos/git-github/ "Curso Git")</center>
