@@ -29,6 +29,7 @@ Este curso de [Platzi][4] es recomendado para aquellos developers que desen ser 
 ###### Te ayudara a progresar en el mundo del desarrollo
 
 *Creado por el increible Platzi Team
+*Incluye ejemplos de Windows, Linux y Mac
 
 
 ### <center>💻Curso de Git y Github aqui 👇</center>
